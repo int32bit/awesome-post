@@ -15,3 +15,4 @@
 2. [The Dos and Don'ts for Ceph for OpenStack](https://www.hastexo.com/resources/hints-and-kinks/dos-donts-ceph-openstack/)：关于OpenStack使用Ceph的一些优化配置。
 3. [More recommendations for Ceph and OpenStack](https://www.hastexo.com/resources/hints-and-kinks/more-recommendations-ceph-openstack/)：关于OpenStack使用Ceph的更多优化配置。
 4. [Importing an existing Ceph RBD image into Glance](https://www.hastexo.com/resources/hints-and-kinks/importing-rbd-into-glance/)：把RBD image导入到Glance的方法。
+5. [Virtual Private Cloud: Creating Custom Images](https://blog.selectel.com/virtual-private-cloud-creating-custom-images/): 使用DIB制作OpenStack镜像。
