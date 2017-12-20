@@ -12,3 +12,6 @@
 ## 3. OpenStack
 
 1. [9 tips to properly configure your OpenStack Instance](https://redhatstackblog.redhat.com/2017/01/18/9-tips-to-properly-configure-your-openstack-instance/): OpenStack的9个配置建议。
+2. [The Dos and Don'ts for Ceph for OpenStack](https://www.hastexo.com/resources/hints-and-kinks/dos-donts-ceph-openstack/)：关于OpenStack使用Ceph的一些优化配置。
+3. [More recommendations for Ceph and OpenStack](https://www.hastexo.com/resources/hints-and-kinks/more-recommendations-ceph-openstack/)：关于OpenStack使用Ceph的更多优化配置。
+4. [Importing an existing Ceph RBD image into Glance](https://www.hastexo.com/resources/hints-and-kinks/importing-rbd-into-glance/):把RBD image导入到Glance的方法。
