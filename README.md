@@ -8,3 +8,7 @@
 ## 2. Ceph
 
 1. [大话Ceph--CRUSH那点事儿](http://www.xuxiaopang.com/2016/11/08/easy-ceph-CRUSH/): 通俗介绍CRUSH算法原理。
+
+## 3. OpenStack
+
+1. [9 tips to properly configure your OpenStack Instance](https://redhatstackblog.redhat.com/2017/01/18/9-tips-to-properly-configure-your-openstack-instance/): OpenStack的9个配置建议。
