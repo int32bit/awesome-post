@@ -8,6 +8,7 @@
 ## 2. Ceph
 
 1. [大话Ceph--CRUSH那点事儿](http://www.xuxiaopang.com/2016/11/08/easy-ceph-CRUSH/): 通俗介绍CRUSH算法原理。
+2. [Ceph and krbd discard](http://www.sebastien-han.fr/blog/2015/01/26/ceph-and-krbd-discard/): 介绍Ceph的discard特性。
 
 ## 3. OpenStack
 
