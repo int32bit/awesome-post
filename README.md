@@ -4,6 +4,7 @@
 2. [Linux 中的零拷贝技术，第 1 部分](https://www.ibm.com/developerworks/cn/linux/l-cn-zerocopy1/index.html): 什么是zero copy，为什么需要zero copy，zero copy技术分类。
 3. [Linux 中的零拷贝技术，第 2 部分](https://www.ibm.com/developerworks/cn/linux/l-cn-zerocopy2/index.html): zero copy技术实现。
 4. [How To Check If A Linux System Is Physical Or Virtual Machine](https://www.ostechnix.com/check-linux-system-physical-virtual-machine/):判断是物理机还是虚拟机的各种方法。
+5. [Generating a img from tarball the dev loop devices](https://unix.stackexchange.com/questions/187326/generating-a-img-from-tarball-the-dev-loop-devices): 挂载raw为loop设备。
 
 ## 2. Ceph
 
