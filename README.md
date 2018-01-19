@@ -5,7 +5,7 @@
 3. [Linux 中的零拷贝技术，第 2 部分](https://www.ibm.com/developerworks/cn/linux/l-cn-zerocopy2/index.html): zero copy技术实现。
 4. [How To Check If A Linux System Is Physical Or Virtual Machine](https://www.ostechnix.com/check-linux-system-physical-virtual-machine/):判断是物理机还是虚拟机的各种方法。
 5. [Generating a img from tarball the dev loop devices](https://unix.stackexchange.com/questions/187326/generating-a-img-from-tarball-the-dev-loop-devices): 挂载raw为loop设备。
-6. [what is the internal interface and port for openvswitch](https://ask.openstack.org/en/question/4276/what-is-the-internal-interface-and-port-for-on-openvswitch/)
+6. [what is the internal interface and port for openvswitch](https://ask.openstack.org/en/question/4276/what-is-the-internal-interface-and-port-for-on-openvswitch/): 为什么ovs桥需要一个与之名字一样的internal port，为什么不能把IP配在物理网卡上。
 
 ## 2. Ceph
 
