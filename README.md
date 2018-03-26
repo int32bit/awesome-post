@@ -6,6 +6,7 @@
 4. [How To Check If A Linux System Is Physical Or Virtual Machine](https://www.ostechnix.com/check-linux-system-physical-virtual-machine/):判断是物理机还是虚拟机的各种方法。
 5. [Generating a img from tarball the dev loop devices](https://unix.stackexchange.com/questions/187326/generating-a-img-from-tarball-the-dev-loop-devices): 挂载raw为loop设备。
 6. [what is the internal interface and port for openvswitch](https://ask.openstack.org/en/question/4276/what-is-the-internal-interface-and-port-for-on-openvswitch/): 为什么ovs桥需要一个与之名字一样的internal port，为什么不能把IP配在物理网卡上。
+7. [Major and Minor Numbers](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=94): 介绍Linux主设备号和次设备号。
 
 ## 2. Ceph
 
