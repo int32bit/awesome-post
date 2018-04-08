@@ -8,6 +8,8 @@
 6. [what is the internal interface and port for openvswitch](https://ask.openstack.org/en/question/4276/what-is-the-internal-interface-and-port-for-on-openvswitch/): 为什么ovs桥需要一个与之名字一样的internal port，为什么不能把IP配在物理网卡上。
 7. [Major and Minor Numbers](http://www.linux-tutorial.info/modules.php?name=MContent&pageid=94): 介绍Linux主设备号和次设备号。
 8. [lvm linear vs striped logical volumes](https://sysadmincasts.com/episodes/27-lvm-linear-vs-striped-logical-volumes)。
+9. [Bonding VLAN Bridge](https://www.ovirt.org/documentation/how-to/networking/bonding-vlan-bridge/): 怎么手动配置linux bond以及vlan（不用vconfig）。
+10. [How to configure linux virtual local area network vlan](http://www.gocit.vn/bai-viet/howto-configure-linux-virtual-local-area-network-vlan/):介绍手动配置vlan以及使用vconfig配置vlan。
 
 ## 2. Ceph
 
