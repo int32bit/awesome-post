@@ -23,3 +23,8 @@
 3. [More recommendations for Ceph and OpenStack](https://www.hastexo.com/resources/hints-and-kinks/more-recommendations-ceph-openstack/)：关于OpenStack使用Ceph的更多优化配置。
 4. [Importing an existing Ceph RBD image into Glance](https://www.hastexo.com/resources/hints-and-kinks/importing-rbd-into-glance/)：把RBD image导入到Glance的方法。
 5. [Virtual Private Cloud: Creating Custom Images](https://blog.selectel.com/virtual-private-cloud-creating-custom-images/): 使用DIB制作OpenStack镜像。
+6. [openstack底层技术-虚拟网络设备(Bridge,VLAN)](https://opengers.github.io/openstack/openstack-base-virtual-network-devices-bridge-and-vlan/)
+7. [openstack底层技术-虚拟网络设备(tun/tap,veth)](https://opengers.github.io/openstack/openstack-base-virtual-network-devices-tuntap-veth/)
+8. [openstack底层技术-使用openvswitch](https://opengers.github.io/openstack/openstack-base-use-openvswitch/)
+9. [openstack底层技术-openflow在OVS中的应用](https://opengers.github.io/openstack/openstack-base-openflow-in-openvswitch/)
+10. [openstack底层技术-netfilter框架概述](https://opengers.github.io/openstack/openstack-base-netfilter-framework-overview/)
