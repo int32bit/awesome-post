@@ -31,3 +31,5 @@
 8. [openstack底层技术-使用openvswitch](https://opengers.github.io/openstack/openstack-base-use-openvswitch/)
 9. [openstack底层技术-openflow在OVS中的应用](https://opengers.github.io/openstack/openstack-base-openflow-in-openvswitch/)
 10. [openstack底层技术-netfilter框架概述](https://opengers.github.io/openstack/openstack-base-netfilter-framework-overview/)
+11. [Migrate Suse Linux from VMware ESXi to Nutanix AHV in minutes](http://vmwaremine.com/2015/09/14/migrate-suse-linux-from-vmware-esxi-to-nutanix-ahv-in-minutes/): Vmware虚拟机迁移到Nutanix AHV，同样适用OpenStack，需要手动添加virtio模块到initrd中，否则虚拟机起不来。
+，
