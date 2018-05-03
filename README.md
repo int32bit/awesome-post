@@ -13,6 +13,7 @@
 11. [How to configure linux virtual local area network vlan](https://www.cyberciti.biz/tips/howto-configure-linux-virtual-local-area-network-vlan.html): Linux下创建vlan子接口的三种方法（network-scripts/vconfig/ip）。
 12. [Linux VRF(Virtual Routing Forwarding)的原理和实现](https://blog.csdn.net/dog250/article/details/78069964)。
 13. [Port mirroring with Linux bridges](http://backreference.org/2014/06/17/port-mirroring-with-linux-bridges/): 介绍Linux实现port mirror的方法。
+14. [认识VXLAN](http://forum.huawei.com/enterprise/zh/forum.php?mod=viewthread&tid=334207): 介绍Vxlan、bridge domain以及集中网关、分布式网关。
 
 ## 2. Ceph
 
